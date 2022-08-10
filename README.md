@@ -1,4 +1,4 @@
- Pokedex 
+ <h1> Pokedex </h1>
 
 
 Project created using Javascript, CSS and HTML, to train and learn more about POO.
